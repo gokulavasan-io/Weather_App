@@ -27,6 +27,13 @@ body {
     justify-content: space-between;
 }
 
+@media screen and (max-width:500px) {
+    .search{
+        width: 70vw;
+    }
+    
+}
+
 .search input {
     border: 0;
     outline: 0;
